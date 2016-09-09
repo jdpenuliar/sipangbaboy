@@ -1,1 +1,1 @@
-A simple android game that uses imitates flappy bird but with a local game of the Philippines called Sipa and Luksong Baboy. Made by JDPenuliar
+A simple android game that uses imitates flappy bird but with a local game of the Philippines called Sipa and Luksong Baboy. This project was made as a thesis of graduating students.  Made by JDPenuliar
